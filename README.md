@@ -1,4 +1,6 @@
-# TCL
-Day 1
-Creating command and pass .csv from UNIX shell to TCL script
-convert all inputs to format[1] and SDC formatand pass it to synthesis tool YOSYS
+# TCL WORKSHOP
+## Introduction
+TCL (Tool Command Language) is a scripting language used for rapid prototyping, automation, and embedded systems. TCL has wide range of applications in various domains, including software development, network programming, and testing. It is often used to create command-line interfaces, automate repetitive tasks, and develop cross-platform applications.
+
+
+
