@@ -76,6 +76,16 @@ Synthesis running successfully
 Synthesis error
 ![image](https://github.com/Srushti246/TCL/blob/main/Images/syntheisis%20fail.jpeg?raw=true)
 
-![image](https://github.com/Srushti246/TCL/blob/main/Images/D5%20Mul_use.jpeg?raw=true)
+Display of error message due to which module error is occurred
+![image](https://github.com/Srushti246/TCL/blob/main/Images/WhatsApp%20Image%202023-06-21%20at%201.42.25%20PM.jpeg?raw=true)
+
+
+### PROCS
+In Tcl, "procs" refers to the command used to define procedures or functions.
+A procedure is a named block of code that can be invoked and executed multiple times throughout a Tcl script. The "procs" command is used to create these reusable blocks of code.
+
+![image](https://github.com/Srushti246/TCL/blob/main/Images/procs.jpeg?raw=true)
+
+![image](https://github.com/Srushti246/TCL/blob/main/Images/num%20thread%204.jpeg?raw=true)
 
 
