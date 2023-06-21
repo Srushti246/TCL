@@ -7,14 +7,20 @@ TCL (Tool Command Language) is a scripting language used for rapid prototyping, 
 3. Convert format[1] and SDC to format[2] and pass to timing tool Opentimer.(Opentimer is tool used to create the data sheet and accepts data in particular fashion.
 ## LINK
 [Day 1](#day1)
+
 Three scenarios
  - when .csv file is not provided
  - when .csv provided which does not exist
  - '-help' find out usage
+![image](https://github.com/Srushti246/TCL/blob/main/output1.png?raw=true)
 
 [Day2](#day2)
-Creating variables
+ 
+ Creating variables
 ![image](https://github.com/Srushti246/TCL/blob/main/day2%20task1.png?raw=true)
+Variables name(Output Directory,Design Name....)
+![image](https://github.com/Srushti246/TCL/blob/main/day2task2.png?raw=true)
+No of rows and columns
 
 
 
