@@ -76,7 +76,7 @@ Synthesis running successfully
 Synthesis error
 ![image](https://github.com/Srushti246/TCL/blob/main/Images/syntheisis%20fail.jpeg?raw=true)
 
-Display of error message due to which module error is occurred
+Display of error message due to which synthesis showed error
 ![image](https://github.com/Srushti246/TCL/blob/main/Images/WhatsApp%20Image%202023-06-21%20at%201.42.25%20PM.jpeg?raw=true)
 
 
