@@ -12,15 +12,55 @@ Three scenarios
  - when .csv file is not provided
  - when .csv provided which does not exist
  - '-help' find out usage
-![image](https://github.com/Srushti246/TCL/blob/main/output1.png?raw=true)
+![image1](https://github.com/Srushti246/TCL/blob/main/Images/D1%20img%201.jpeg?raw=true)
+
 
 [Day2](#day2)
  
- Creating variables
-![image](https://github.com/Srushti246/TCL/blob/main/day2%20task1.png?raw=true)
-Variables name(Output Directory,Design Name....)
-![image](https://github.com/Srushti246/TCL/blob/main/day2task2.png?raw=true)
+ Creating Variables
+![image2](https://github.com/Srushti246/TCL/blob/main/Images/getting%20vaiables%20name.jpeg?raw=true)
 No of rows and columns
+![image3](https://github.com/Srushti246/TCL/blob/main/Images/no%20of%20rows%20and%20cloumns.jpeg?raw=true)
+Display of error message when require file is not found
+![image4](https://github.com/Srushti246/TCL/blob/main/Images/constatrints%20file%20not%20found.jpeg?raw=true)
+Display when the all required all files exist
+![image5](https://github.com/Srushti246/TCL/blob/main/Images/constarints%20file%20found.jpeg?raw=true)
+
+
+[Day3](#day3)
+
+snippet of creaing SDC constarints
+![image6](https://github.com/Srushti246/TCL/blob/main/Images/SDC%20constraints%20creation.jpeg?raw=true)
+Snippet of the SDC file
+![image7](https://github.com/Srushti246/TCL/blob/main/Images/output%20port%20checks.jpeg?raw=true)
+
+
+[Day4](#day4)
+### YOSYS
+YOSYS is an open-source synthesis tool that converts RTL (Register Transfer Level) designs written in hardware description languages like Verilog or VHDL into a gate-level representation. It enables hardware designers to perform synthesis, optimization, and formal verification of digital circuits.
+
+Tool introduction
+![image8](https://github.com/Srushti246/TCL/blob/main/Images/hierarcy%20check%20to%20YOSYS.jpeg?raw=true)
+
+If any module is not found it displays error flag as 1
+![image9](https://github.com/Srushti246/TCL/blob/main/Images/error%20flag%20D4.jpeg?raw=true)
+
+If all modules are defined well then it shows error flag as 0
+![image10](https://github.com/Srushti246/TCL/blob/main/Images/hierarchy%20pass.jpeg?raw=true)
+
+Hierarchy Check Pass
+![image11](https://github.com/Srushti246/TCL/blob/main/Images/h%20check%20pass.jpeg?raw=true)
+
+Hieratchy Fail snippet
+![image12](https://github.com/Srushti246/TCL/blob/main/Images/hierarrchy%20check%20fail.jpeg?raw=true)
+
+[Day5](#day5)
+
+Synthesis running successfully
+![image](https://github.com/Srushti246/TCL/blob/main/Images/synthesis%20pass.jpeg?raw=true)
+
+Synthesis error
+![image](https://github.com/Srushti246/TCL/blob/main/Images/syntheisis%20fail.jpeg?raw=true)
 
 
 
