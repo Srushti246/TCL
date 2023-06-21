@@ -17,12 +17,15 @@ Three scenarios
 
 [Day2](#day2)
  
- Creating Variables
+Creating Variables
 ![image2](https://github.com/Srushti246/TCL/blob/main/Images/getting%20vaiables%20name.jpeg?raw=true)
+
 No of rows and columns
 ![image3](https://github.com/Srushti246/TCL/blob/main/Images/no%20of%20rows%20and%20cloumns.jpeg?raw=true)
+
 Display of error message when require file is not found
 ![image4](https://github.com/Srushti246/TCL/blob/main/Images/constatrints%20file%20not%20found.jpeg?raw=true)
+
 Display when the all required all files exist
 ![image5](https://github.com/Srushti246/TCL/blob/main/Images/constarints%20file%20found.jpeg?raw=true)
 
@@ -31,6 +34,7 @@ Display when the all required all files exist
 
 snippet of creaing SDC constarints
 ![image6](https://github.com/Srushti246/TCL/blob/main/Images/SDC%20constraints%20creation.jpeg?raw=true)
+
 Snippet of the SDC file
 ![image7](https://github.com/Srushti246/TCL/blob/main/Images/output%20port%20checks.jpeg?raw=true)
 
