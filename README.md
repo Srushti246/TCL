@@ -7,14 +7,14 @@ TCL (Tool Command Language) is a scripting language used for rapid prototyping, 
 3. Convert format[1] and SDC to format[2] and pass to timing tool Opentimer.(Opentimer is tool used to create the data sheet and accepts data in particular fashion.
 ## LINK
 1. [Day 1](#day1)
-2. [Day2](#day2)
-3. [Day3](#day3)
-4. [Day4](#day4)
-5. [Day5](#day5)
+2. [Day 2](#day2)
+3. [Day 3](#day3)
+4. [Day 4](#day4)
+5. [Day ](#day5)
 
 
 
-[Day 1](#day1)
+Day 1
 
 Three scenarios
  - when .csv file is not provided
@@ -23,7 +23,7 @@ Three scenarios
 ![image1](https://github.com/Srushti246/TCL/blob/main/Images/D1%20img%201.jpeg?raw=true)
 
 
-[Day2](#day2)
+Day 2
  
 Creating Variables
 ![image2](https://github.com/Srushti246/TCL/blob/main/Images/getting%20vaiables%20name.jpeg?raw=true)
@@ -38,7 +38,7 @@ Display when the all required all files exist
 ![image5](https://github.com/Srushti246/TCL/blob/main/Images/constarints%20file%20found.jpeg?raw=true)
 
 
-[Day3](#day3)
+Day 3
 
 snippet of creaing SDC constarints
 ![image6](https://github.com/Srushti246/TCL/blob/main/Images/SDC%20constraints%20creation.jpeg?raw=true)
@@ -47,7 +47,7 @@ Snippet of the SDC file
 ![image7](https://github.com/Srushti246/TCL/blob/main/Images/output%20port%20checks.jpeg?raw=true)
 
 
-[Day4](#day4)
+Day 4
 ### YOSYS
 YOSYS is an open-source synthesis tool that converts RTL (Register Transfer Level) designs written in hardware description languages like Verilog or VHDL into a gate-level representation. It enables hardware designers to perform synthesis, optimization, and formal verification of digital circuits.
 
@@ -68,7 +68,7 @@ Hierarchy Check Pass
 Hieratchy Fail snippet
 ![image12](https://github.com/Srushti246/TCL/blob/main/Images/hierarrchy%20check%20fail.jpeg?raw=true)
 
-[Day5](#day5)
+Day 5
 
 Synthesis running successfully
 ![image](https://github.com/Srushti246/TCL/blob/main/Images/synthesis%20pass.jpeg?raw=true)
