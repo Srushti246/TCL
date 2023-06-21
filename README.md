@@ -46,7 +46,9 @@ YOSYS is an open-source synthesis tool that converts RTL (Register Transfer Leve
 Tool introduction
 ![image8](https://github.com/Srushti246/TCL/blob/main/Images/hierarcy%20check%20to%20YOSYS.jpeg?raw=true)
 
+
 If any module is not found it displays error flag as 1
+
 ![image9](https://github.com/Srushti246/TCL/blob/main/Images/error%20flag%20D4.jpeg?raw=true)
 
 If all modules are defined well then it shows error flag as 0
