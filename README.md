@@ -6,11 +6,11 @@ TCL (Tool Command Language) is a scripting language used for rapid prototyping, 
 2. Convert all inputs to format[1](which is understood by YOSYS tool) and SDC format and pass to Synthesis tool YOSYS.
 3. Convert format[1] and SDC to format[2] and pass to timing tool Opentimer.(Opentimer is tool used to create the data sheet and accepts data in particular fashion.
 ## LINK
-1. [Day 1](#https://github.com/Srushti246/TCL/blob/main/README.md#day-1)
-2. [Day 2](#https://github.com/Srushti246/TCL#day-2)
-3. [Day 3](#https://github.com/Srushti246/TCL#day-3)
-4. [Day 4](#https://github.com/Srushti246/TCL#day-4)
-5. [Day 5](#https://github.com/Srushti246/TCL#day-5)
+1. [Day 1](https://github.com/Srushti246/TCL/blob/main/README.md#day-1)
+2. [Day 2](https://github.com/Srushti246/TCL#day-2)
+3. [Day 3](https://github.com/Srushti246/TCL#day-3)
+4. [Day 4](https://github.com/Srushti246/TCL#day-4)
+5. [Day 5](https://github.com/Srushti246/TCL#day-5)
 
 
 
